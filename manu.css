@@ -1,0 +1,30 @@
+body{
+    color:green;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ h1{display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+ }
+ a {
+    color:white;
+    text-decoration:none;
+
+ }
+ img 
+ {
+    width: 300px;
+    height: 300px;
+    border-radius: 0%;
+    border-radius: 5% solid green;
+
+ }
+ .center{
+    text-align: center;
+ }
+ .width{
+    text-align: width;
+ }
